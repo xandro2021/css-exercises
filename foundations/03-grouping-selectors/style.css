@@ -1,0 +1,13 @@
+.boton-negro{
+    background-color: black;
+    color: white;
+}
+
+.boton-amarillo{
+    background-color: yellow;
+}
+
+.boton-negro,.boton-amarillo{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}

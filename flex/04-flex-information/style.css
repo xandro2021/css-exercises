@@ -24,3 +24,33 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Resultado de ALE */
+body {
+  text-align: center;
+}
+
+.content{
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 32px;
+}
+
+.title,
+.container {
+  display: flex;
+  justify-content: center;
+  flex:1 100%;
+  gap: 52px;
+}
+
+
+.info{
+  max-width: 200px;
+}
+
+
+/* img{
+  border: rebeccapurple solid;
+} */
+
